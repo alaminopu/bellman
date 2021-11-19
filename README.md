@@ -1,6 +1,6 @@
 # Bellman
 
-Watch for file changes in a directory
+An electron app for watching for file changes in a directory
 
 ## Installation
 
